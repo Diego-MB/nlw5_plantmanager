@@ -90,6 +90,8 @@ export function UserIdentification() {
   )
 }
 
+// embuscadoproximonivel - código
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,

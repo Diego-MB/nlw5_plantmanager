@@ -3,6 +3,7 @@ import {
   SafeAreaView,
   Text,
   Image,
+  View,
   TouchableOpacity,
   StyleSheet,
   Dimensions
@@ -17,32 +18,33 @@ export function Welcome() {
 
   return (
     <SafeAreaView style={styles.container}>
-      <Text style={styles.title}>
-        Gerencie {'\n'}
-        suas plantas {'\n'}
-        de forma fácil
-      </Text>
+      <View style={styles.wrapper}>
+        <Text style={styles.title}>
+          Gerencie {'\n'}
+        suas plantas de {'\n'}
+        forma fácil
+        </Text>
 
-      <Image
-        source={wateringImg}
-        style={styles.image}
-        resizeMode="contain" />
+        <Image
+          source={wateringImg}
+          style={styles.image}
+          resizeMode="contain" />
 
-      <Text style={styles.subtitle}>
-        Não esqueça mais de regar suas plantas.
-        Nós cuidamos de lembrar você sempre que precisar.
-      </Text>
+        <Text style={styles.subtitle}>
+          Não esqueça mais de regar suas plantas.
+          Nós cuidamos de lembrar você sempre que precisar.
+        </Text>
 
-      <TouchableOpacity
-        style={styles.button}
-        activeOpacity={0.7}>
+        <TouchableOpacity
+          style={styles.button}
+          activeOpacity={0.7}>
 
-        <Feather
-          name="chevron-right"
-          style={styles.buttonIcon} />
+          <Feather
+            name="chevron-right"
+            style={styles.buttonIcon} />
 
-      </TouchableOpacity>
-
+        </TouchableOpacity>
+      </View>
     </SafeAreaView>
   )
 }
@@ -51,18 +53,22 @@ export function Welcome() {
 
 const styles = StyleSheet.create({
   container: {
+    flex: 1
+  },
+  wrapper: {
     flex: 1,
     alignItems: 'center',
-    justifyContent: 'space-around'
+    justifyContent: 'space-around',
+    paddingHorizontal: 20
   },
   title: {
-    fontSize: 32,
+    fontSize: 28,
     fontWeight: 'bold',
     textAlign: 'center',
     color: colors.heading,
     marginTop: 38,
     fontFamily: fonts.heading,
-    lineHeight: 38
+    lineHeight: 34
   },
   subtitle: {
     textAlign: 'center',

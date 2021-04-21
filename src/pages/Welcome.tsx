@@ -11,6 +11,7 @@ import { Feather } from '@expo/vector-icons'
 
 import wateringImg from '../assets/watering.png';
 import colors from '../styles/colors';
+import fonts from '../styles/fonts';
 
 export function Welcome() {
 
@@ -22,10 +23,10 @@ export function Welcome() {
         de forma fácil
       </Text>
 
-      <Image 
-      source={wateringImg}
-      style={styles.image} 
-      resizeMode="contain" />
+      <Image
+        source={wateringImg}
+        style={styles.image}
+        resizeMode="contain" />
 
       <Text style={styles.subtitle}>
         Não esqueça mais de regar suas plantas.
@@ -35,11 +36,11 @@ export function Welcome() {
       <TouchableOpacity
         style={styles.button}
         activeOpacity={0.7}>
-        <Text>
-          <Feather 
+
+        <Feather
           name="chevron-right"
           style={styles.buttonIcon} />
-      </Text>
+
       </TouchableOpacity>
 
     </SafeAreaView>
@@ -59,13 +60,16 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     textAlign: 'center',
     color: colors.heading,
-    marginTop: 38
+    marginTop: 38,
+    fontFamily: fonts.heading,
+    lineHeight: 38
   },
   subtitle: {
     textAlign: 'center',
     fontSize: 18,
     paddingHorizontal: 20,
-    color: colors.heading
+    color: colors.heading,
+    fontFamily: fonts.text
   },
   image: {
     height: Dimensions.get('window').width * 0.7
@@ -82,5 +86,5 @@ const styles = StyleSheet.create({
   buttonIcon: {
     fontSize: 32,
     color: colors.white
-  }  
+  }
 });

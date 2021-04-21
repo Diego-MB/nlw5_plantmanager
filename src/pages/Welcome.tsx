@@ -21,8 +21,8 @@ export function Welcome() {
       <View style={styles.wrapper}>
         <Text style={styles.title}>
           Gerencie {'\n'}
-        suas plantas de {'\n'}
-        forma fácil
+          suas plantas de {'\n'}
+          forma fácil
         </Text>
 
         <Image

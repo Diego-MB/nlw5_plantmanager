@@ -13,7 +13,7 @@ import api from '../services/api';
 
 import { Header } from '../components/Header';
 import { EnviromentButton } from '../components/EnviromentButton';
-import { PlantCardPrimary } from '../components/PlantCardPrimart';
+import { PlantCardPrimary } from '../components/PlantCardPrimary';
 import { Load } from '../components/Load';
 
 import colors from '../styles/colors';

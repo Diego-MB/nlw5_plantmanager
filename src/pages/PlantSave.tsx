@@ -51,7 +51,6 @@ export function PlantSave() {
   function handleOpenDatetimePickerForAndroid() {
     setShowDatePicker(oldState => !oldState);
   }
-  
 
   async function handleSave() {
     try {

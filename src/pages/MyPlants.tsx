@@ -34,7 +34,7 @@ export function MyPlants() {
       );
 
       setNextWatered(
-        `Não esqueça de regar a ${plantsStoraged[0].name} à ${nextTime}.`
+        `Não esqueça de regar a ${plantsStoraged[0].name} daqui ${nextTime}.`
       );
 
       setMyPlants(plantsStoraged);
@@ -51,31 +51,18 @@ export function MyPlants() {
       <Header />
 
       <View style={styles.spotlight}>
-        <Image 
-          source={waterdrop}
-          style={styles.spotlightImage} />
-
-          <Text style={styles.spotlightText}>
-            {nextWatered}
-          </Text>
+        <Image source={waterdrop} style={styles.spotlightImage} />
+        <Text style={styles.spotlightText}>{nextWatered}</Text>
       </View>
 
       <View style={styles.plants}>
-        <Text style={styles.plantTitle}>
-          Próximas regadas
-        </Text>
-
+        <Text style={styles.plantTitle}>Próximas regadas</Text>
         <FlatList
           data={myPlants}
           keyExtractor={(item) => String(item.id)}
-          renderItem={({item}) => (
-            <PlantCardSecondary data={item} />
-          )}
-          showsVerticalScrollIndicator={false}
-          contentContainerStyle={{ flex: 1 }} />
-
+          renderItem={({ item }) => <PlantCardSecondary data={item} />}
+          showsVerticalScrollIndicator={false} />
       </View>
-
     </View>
 
   )
@@ -87,7 +74,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'space-between',
     paddingHorizontal: 30,
-    paddingTop: 50,
+    paddingTop: 10,
     backgroundColor: colors.background
   },
   spotlight: {

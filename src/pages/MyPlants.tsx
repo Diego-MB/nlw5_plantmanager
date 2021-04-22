@@ -68,6 +68,8 @@ export function MyPlants() {
   )
 }
 
+// #universoinfinito - Código
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,

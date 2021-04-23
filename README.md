@@ -8,7 +8,8 @@
  <a href="#objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> •
  <a href="#apresentacao">Apresentacao</a> • 
- <a href="#instalacao">Instalação</a> • 
+ <a href="#instalacao">Instalação</a> •
+ <a href="#utilizacao">Utilização</a> •  
  <a href="#licenca">Licença de uso</a>
 </p>
 
@@ -27,7 +28,7 @@
 
 <img src="./doc-readme/icon.png">
 
-<h2 id="instalacao">👷 Instalação</h2>
+<h2 id="instalacao">🏃 Instalação</h2>
 
 Clone o repositorio, depois entre nele e instale as dependências 
 ```Bash 
@@ -36,7 +37,7 @@ Clone o repositorio, depois entre nele e instale as dependências
   yarn install 
 ```
 
-## Utilização
+<h2 id="utilizacao">👷 Utilização</h2>
 
 Dentro do repositorio execulte o comando abaixo, substitua **ENDEREÇO DE IP DA SUA MAQUINA** pelo endereço de IP da sua maquina
 ```Bash 

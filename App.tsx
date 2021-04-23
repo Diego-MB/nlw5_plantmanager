@@ -27,17 +27,17 @@ export default function App() {
 
     //   return () => subscription.remove();
 
-    async function notifications() {
+    // async function notifications() {
       
-      await Notifications.cancelAllScheduledNotificationsAsync();
+    //   await Notifications.cancelAllScheduledNotificationsAsync();
 
-      const data = await Notifications.getAllScheduledNotificationsAsync();
-      console.log('##### NOTIFICAÇÕES AGENDADAS ######')
-      console.log(data);
+    //   const data = await Notifications.getAllScheduledNotificationsAsync();
+    //   console.log('##### NOTIFICAÇÕES AGENDADAS ######')
+    //   console.log(data);
       
-    }
+    // }
 
-    notifications();
+    // notifications();
 
   }, [])
 

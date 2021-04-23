@@ -25,7 +25,7 @@ export default function App() {
     
       });
 
-      return () => subscription.remove();
+    return () => subscription.remove();
 
     // async function notifications() {
       

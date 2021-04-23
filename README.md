@@ -72,7 +72,7 @@
 
 <h2 id="instalacao">🏃 Instalação</h2>
 
-Clone o repositorio, depois entre nele e instale as dependências 
+Clone o repositório, depois entre nele e instale as dependências 
 ```Bash 
   git clone https://github.com/Diego-MB/nlw5_plantmanager.git
   cd plantmanager

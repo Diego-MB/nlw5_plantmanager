@@ -54,7 +54,7 @@
 
 <h2 id="apresentacao">📺 Apresentação</h2>
 
-<img src="./doc-readme/mockup-app.gif">
+<div align="center"><img src="./doc-readme/mockup-app.gif"></div>
 
 <h2 id="instalacao">🏃 Instalação</h2>
 

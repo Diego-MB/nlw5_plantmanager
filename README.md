@@ -43,6 +43,11 @@ Dentro do repositorio execulte o comando abaixo, substitua **ENDEREÇO DE IP DA 
     yarn start
     json-server ./src/services/server.json --host ENDEREÇO DE IP DA SUA MAQUINA --port 3333
 ```
+<h2 id="autor">💻 Autor</h2>
+<p>Por Diego Maroldi Barreiros 🏡 Me encontre:</p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=#)](link)
+[![Gmail Badge](https://img.shields.io/badge/-diegomaroldi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegomaroldi@gmail.com)](mailto:diegomaroldi@gmail.com)
 
 <h2 id="licenca">📝 Licença de uso</h2>
 <p>Este projeto está sob a licença do MIT.</p>

@@ -9,7 +9,8 @@
  <a href="#tecnologias">Tecnologias</a> •
  <a href="#apresentacao">Apresentacao</a> • 
  <a href="#instalacao">Instalação</a> •
- <a href="#utilizacao">Utilização</a> •  
+ <a href="#utilizacao">Utilização</a> •
+ <a href="#autor">Autor</a> •  
  <a href="#licenca">Licença de uso</a>
 </p>
 

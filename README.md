@@ -75,7 +75,7 @@ Dentro do repositório execute o comando abaixo, substitua **ENDEREÇO DE IP DA 
 <h2 id="autor">💻 Autor</h2>
 <p>Por Diego Maroldi Barreiros 🏡 Me encontre:</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-diegomaroldi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=#)](https://www.linkedin.com/in/diego-m-6a1b90a6/)
+[![Linkedin Badge](https://img.shields.io/badge/-diegomb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=#)](https://www.linkedin.com/in/diego-m-6a1b90a6/)
 [![Gmail Badge](https://img.shields.io/badge/-diegomaroldi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegomaroldi@gmail.com)](mailto:diegomaroldi@gmail.com)
 
 <h2 id="licenca">📝 Licença de uso</h2>

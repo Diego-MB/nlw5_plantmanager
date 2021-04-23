@@ -56,11 +56,6 @@
 
 <img src="./doc-readme/icon.png">
 
-<div style="display: flex;">
-  <img src="./doc-readme/mockup-smartphone.png" style="z-index: 1;">
-  <img src="./doc-readme/AppPlantManager.gif" style="position: absolute; margin-top: 100px; width: 300px;">
-</div>
-
 <h2 id="instalacao">🏃 Instalação</h2>
 
 Clone o repositorio, depois entre nele e instale as dependências 

@@ -23,7 +23,7 @@
 
 <p>Configurações do ambiente disponível <a href="https://www.notion.so/Configura-es-do-ambiente-79e0e4c3e992462a9b11f2745b0f2785">aqui</a></p>
 
-<ul>
+<ul style="list-style: none;">
   <li>
     <img src="./doc-readme/nodejs-16x16.png">
     <a href="https://nodejs.org/en/">Node.js</a>
@@ -43,7 +43,7 @@
 </ul>
 
 <p>Caso queria executar em um dispositivo virtual, uma das seguintes ferramentas pode ser usada:</p>
-<ul>
+<ul style="list-style: none;">
   <li>
     <img src="./doc-readme/androidStudio-16x16.png">
     <a href="https://developer.android.com/studio">Android Studio</a>

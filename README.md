@@ -42,7 +42,6 @@
 </ul>
 
 <p>Caso queria executar em um dispositivo virtual, uma das seguintes ferramentas pode ser usada:</p>
-
 <ul>
   <li>
     <img src="./doc-readme/androidStudio-16x16.png">
@@ -56,10 +55,6 @@
 <h2 id="apresentacao">📺 Apresentação</h2>
 
 <img src="./doc-readme/icon.png">
-<div style="display: flex; align-items: center; justify-content: center;">
-	<img src="./doc-readme/mockup-smartphone.png" style="z-index: 1;">
-	<img src="./doc-readme/AppPlantManager.gif" style="z-index: -9999; border: 1px solid #000; width: 360px; position: absolute; margin-top: 6px;">	
-</div>
 
 <h2 id="instalacao">🏃 Instalação</h2>
 

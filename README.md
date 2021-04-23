@@ -75,7 +75,7 @@
 Clone o repositório, depois entre nele e instale as dependências 
 ```Bash 
   git clone https://github.com/Diego-MB/nlw5_plantmanager.git
-  cd plantmanager
+  cd nlw5_plantmanager
   yarn install 
 ```
 

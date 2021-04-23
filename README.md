@@ -7,7 +7,8 @@
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> •
- <a href="#apresentacao">Apresentacao</a> • 
+ <a href="#apresentacao">Apresentacao</a> •
+ <a href="#funcionalidades">Funcionalidades</a> • 
  <a href="#instalacao">Instalação</a> •
  <a href="#utilizacao">Utilização</a> •
  <a href="#autor">Autor</a> •  
@@ -55,6 +56,16 @@
 <h2 id="apresentacao">📺 Apresentação</h2>
 
 <div align="center"><img src="./doc-readme/mockup-app.gif"></div>
+
+<h2 id="funcionalidades">✅ Funcionalidades</h2>
+
+<ul style="list-style: none;">
+  <li>[X] Armazenamento do nome do usuário</li>
+  <li>[X] Listagem de plantas</li>
+  <li>[X] Cadastro plantas</li>
+  <li>[X] Remoção da planta</li>
+  <li>[X] Notificação de cuidado com planta</li>
+</ul>
 
 <h2 id="instalacao">🏃 Instalação</h2>
 

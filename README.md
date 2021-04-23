@@ -1,4 +1,6 @@
-<img src="./doc-readme/icon.png" width="400">
+
+<div align="center"><img src="./doc-readme/icon.png" width="200" alt="Logo do Aplicativo">
+</div>
 <h1 align="center">Plant Manager</h1>
 <p align="center">Aplicativo que gerencia cuidados com as plantas.</p>
 

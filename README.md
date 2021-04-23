@@ -14,6 +14,7 @@
 
 <h2 id="objetivo">🎯 Objetivo</h2>
 <p>Aplicativo desenvolvido durante a semana NLW#5 da <a href="https://rocketseat.com.br/">Rocketseat</a> como forma de aprimorar meus conhecimentos nas tecnologias React e React Native.</p>
+<p>O layout original do plantmanager está disponível <a href="https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate?node-id=0%3A1">aqui</a></p>
 
 <h2 id="tecnologias">🛠 Tecnologias</h2>
 
@@ -22,11 +23,11 @@
   <li>React Native</li>
 </ul>
 
-<h2 id="apresentacao">Apresentação - Telas do aplicativo</h2>
+<h2 id="apresentacao">❇️ Apresentação</h2>
 
 <img src="./doc-readme/icon.png">
 
-<h2 id="instalacao">Instalação</h2>
+<h2 id="instalacao">👷 Instalação</h2>
 
 Clone o repositorio, depois entre nele e instale as dependências 
 ```Bash 
@@ -43,5 +44,5 @@ Dentro do repositorio execulte o comando abaixo, substitua **ENDEREÇO DE IP DA 
     json-server ./src/services/server.json --host ENDEREÇO DE IP DA SUA MAQUINA --port 3333
 ```
 
-<h2 id="licenca">Licença de uso</h2>
+<h2 id="licenca">📝 Licença de uso</h2>
 <p>Este projeto está sob a licença do MIT.</p>

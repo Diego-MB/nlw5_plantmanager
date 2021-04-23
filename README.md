@@ -23,7 +23,7 @@
 
 <p>Configurações do ambiente disponível <a href="https://www.notion.so/Configura-es-do-ambiente-79e0e4c3e992462a9b11f2745b0f2785">aqui</a></p>
 
-<ul style="list-style: none;">
+<ul style="list-style-type:none">
   <li>
     <img src="./doc-readme/nodejs-16x16.png">
     <a href="https://nodejs.org/en/">Node.js</a>
@@ -43,7 +43,7 @@
 </ul>
 
 <p>Caso queria executar em um dispositivo virtual, uma das seguintes ferramentas pode ser usada:</p>
-<ul style="list-style: none;">
+<ul style="list-style-type:none">
   <li>
     <img src="./doc-readme/androidStudio-16x16.png">
     <a href="https://developer.android.com/studio">Android Studio</a>
@@ -59,12 +59,13 @@
 
 <h2 id="funcionalidades">✅ Funcionalidades</h2>
 
-<ul style="list-style: none;">
+<ul style="list-style-type:none">
   <li>[X] Armazenamento do nome do usuário</li>
   <li>[X] Listagem de plantas</li>
   <li>[X] Cadastro plantas</li>
   <li>[X] Remoção da planta</li>
   <li>[X] Notificação de cuidado com planta</li>
+  <li>[ ] Alterar foto perfil</li>
 </ul>
 
 <h2 id="instalacao">🏃 Instalação</h2>

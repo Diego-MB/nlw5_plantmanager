@@ -21,8 +21,9 @@ export default function App() {
     const subscription = Notifications.addNotificationReceivedListener(
       async notification => {
         const data = notification.request.content.data.plant as PlantProps
-      }
-    )
+      });
+
+      return () => subscription.remove();
 
   }, [])
 

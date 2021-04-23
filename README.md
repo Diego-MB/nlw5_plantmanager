@@ -20,9 +20,37 @@
 
 <h2 id="tecnologias">🛠 Tecnologias</h2>
 
+<p>Configurações do ambiente disponível <a href="https://www.notion.so/Configura-es-do-ambiente-79e0e4c3e992462a9b11f2745b0f2785">aqui</a></p>
+
 <ul>
-  <li>React</li>
-  <li>React Native</li>
+  <li>
+    <img src="./doc-readme/nodejs-16x16.png">
+    <a href="https://nodejs.org/en/">Node.js</a>
+  </li>
+  <li>
+    <img src="./doc-readme/expo-16x16.png">
+    <a href="https://expo.io/">Expo</a>
+  </li>
+  <li>
+    <img src="./doc-readme/react-16x16.png">
+    <a href="https://reactjs.org/">React</a>
+  </li>
+  <li>
+    <img src="./doc-readme/react-16x16.png">
+    <a href="https://reactnative.dev/">React Native</a>
+  </li>
+</ul>
+
+<p>Caso queria executar em um dispositivo virtual, uma das seguintes ferramentas pode ser usada:</p>
+
+<ul>
+  <li>
+    <img src="./doc-readme/androidStudio-16x16.png">
+    <a href="https://developer.android.com/studio">Android Studio</a>
+    ou
+    <img src="./doc-readme/genymotion-16x16.png">
+    <a href="https://www.genymotion.com/">Genymotion</a>
+  </li>
 </ul>
 
 <h2 id="apresentacao">📺 Apresentação</h2>

@@ -65,7 +65,8 @@
   <li>[X] Listagem de categorias</li>
   <li>[X] Cadastro plantas</li>
   <li>[X] Remoção da planta</li>
-  <li>[X] Notificação de cuidado com planta</li>
+  <li>[X] Cadastro de notificação de cuidado com planta</li>
+  <li>[X] Exibição da notificação</li>
   <li>[ ] Alterar foto perfil</li>
 </ul>
 

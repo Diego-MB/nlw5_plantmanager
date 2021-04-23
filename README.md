@@ -62,6 +62,7 @@
 <ul style="list-style-type:none">
   <li>[X] Armazenamento do nome do usuário</li>
   <li>[X] Listagem de plantas</li>
+  <li>[X] Listagem de categorias</li>
   <li>[X] Cadastro plantas</li>
   <li>[X] Remoção da planta</li>
   <li>[X] Notificação de cuidado com planta</li>

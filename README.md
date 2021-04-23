@@ -1,4 +1,4 @@
-![Logo do Aplicativo](./doc-readme/icon.png)
+<img src="./doc-readme/icon.png" width="400">
 <h1 align="center">Plant Manager</h1>
 <p align="center">Aplicativo que gerencia cuidados com as plantas.</p>
 

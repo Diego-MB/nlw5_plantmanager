@@ -25,7 +25,7 @@
   <li>React Native</li>
 </ul>
 
-<h2 id="apresentacao">❇️ Apresentação</h2>
+<h2 id="apresentacao">📺 Apresentação</h2>
 
 <img src="./doc-readme/icon.png">
 

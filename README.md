@@ -14,7 +14,7 @@
 
 <h2 id="objetivo">🎯 Objetivo</h2>
 <p>Aplicativo desenvolvido durante a semana NLW#5 da <a href="https://rocketseat.com.br/">Rocketseat</a> como forma de aprimorar meus conhecimentos nas tecnologias React e React Native.</p>
-<p>O layout original do plantmanager está disponível <a href="https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate?node-id=0%3A1" target="_blank">aqui</a></p>
+<p>O layout original do plantmanager está disponível <a href="https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate?node-id=0%3A1">aqui</a></p>
 
 <h2 id="tecnologias">🛠 Tecnologias</h2>
 

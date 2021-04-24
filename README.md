@@ -81,7 +81,7 @@ Clone o repositório, depois entre nele e instale as dependências
 
 <h2 id="utilizacao">👷 Utilização</h2>
 
-Dentro do repositório execute o comando abaixo, substitua **ENDEREÇO DE IP DA SUA MAQUINA** pelo endereço de IP da sua maquina
+Dentro do repositório execute o comando abaixo, substitua **ENDEREÇO DE IP DA SUA MAQUINA** conforme indicado na segunda linha do código abaixo
 ```Bash 
     yarn start
     json-server ./src/services/server.json --host ENDEREÇO DE IP DA SUA MAQUINA --port 3333
